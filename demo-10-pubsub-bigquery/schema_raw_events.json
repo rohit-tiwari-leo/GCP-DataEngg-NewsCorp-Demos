@@ -1,0 +1,10 @@
+[
+ {"name":"event_id","type":"STRING","mode":"NULLABLE"},
+ {"name":"event_ts","type":"TIMESTAMP","mode":"NULLABLE"},
+ {"name":"match_id","type":"STRING","mode":"NULLABLE"},
+ {"name":"player_id","type":"STRING","mode":"NULLABLE"},
+ {"name":"event_type","type":"STRING","mode":"NULLABLE"},
+ {"name":"score","type":"INT64","mode":"NULLABLE"},
+ {"name":"region","type":"STRING","mode":"NULLABLE"},
+ {"name":"sequence","type":"INT64","mode":"NULLABLE"}
+]

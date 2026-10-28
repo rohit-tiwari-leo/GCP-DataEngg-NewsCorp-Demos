@@ -1,0 +1,12 @@
+{
+  "package": "GCP Data Engineering Day 3 Guided Demo Pack",
+  "demos": [
+    "sno-demo-pubsub-bigquery.md",
+    "sno-demo-bigquery-curation.md",
+    "sno-demo-adk-bigquery-tool.md",
+    "sno-demo-cloud-run-deployment.md",
+    "sno-demo-model-armor.md",
+    "sno-demo-capstone-esports-agent.md"
+  ],
+  "data": "Synthetic eSports event telemetry; no external sample database required"
+}
